@@ -3,4 +3,4 @@ web URL  http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b806
 
 1. 学习分支
 	相关命令：新建并切换分支 git branch branchname ; git checkout branchname ;或者git checkout -b branchname
-	学习多个分支合并时master的效果，log的显示方式等
+	学习多个分支合并时master的效果，log的显示方式等，所有分支都是从主分支拉出
